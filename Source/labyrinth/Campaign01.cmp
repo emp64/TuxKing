@@ -1,0 +1,9 @@
+Name=Fero kampaň
+Number_of_levels=16
+
+
+Level01=Fero
+MapSize=15x15x1
+Spawn_Point=1 1 1
+
+...

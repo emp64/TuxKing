@@ -1,0 +1,13 @@
+01 - dirt - w-block
+02 - grass - w-block
+03 - road - w-block
+04 - fenceX 
+05 - fenceZ
+06 - doubleGateX
+07 - doubleGateZ
+08 - quadGateX
+09 - quadGateZ
+10 - bush
+11 - tree01
+12 - tree02
+13 - tree03

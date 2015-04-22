@@ -1,0 +1,1 @@
+/home/projekty/Hry/Urho3D/Urho3D/cmake_codeblocks.sh

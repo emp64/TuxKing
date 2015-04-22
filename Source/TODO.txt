@@ -1,0 +1,11 @@
+MENU
+Nacitanie Campaign suboru a vytvorenie LevelWindow
+
+BUG ked idem do Labyrinth a potom späť do main menu a znova do Labyrinth tak sa mi tam zjavi nejaky DropDown list co co
+
+Škálovanie podľa rozlíšenia - zväčšovanie okien a fontov ...
+
+Treba dorobit GlobalSettings
+
+Treba spravit aby ak je fullscreen aby po vypnuti hry vratil rozlisenie na take ake bolo povodne inak 
+to bude robit neplechu pri inom rozliseni ako nativne rozlisenie obrazovky v systeme
